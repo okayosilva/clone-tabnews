@@ -1,0 +1,15 @@
+node_modules
+build
+dist
+.next
+out
+coverage
+*.lock
+package-lock.json
+yarn.lock
+public
+.env
+# Windows system directories that might be accessed from WSL
+/mnt/c/Windows/
+/mnt/c/Program Files/
+LiveKernelReports/
