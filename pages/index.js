@@ -1,5 +1,13 @@
+import { useState } from 'react';
+
 function Home() {
-  return <h1>Bem Vindo Ao Dev Content! 🚀</h1>;
+  return (
+    <div>
+      <h2>
+        teste
+      </h2>
+    </div>
+  )
 }
 
 export default Home;
